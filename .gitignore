@@ -1,3 +1,9 @@
 *.zip
 *.csv
-.ipynb_checkpoints
+.ipynb_checkpoints/
+*.png
+screenshots/
+processed_shots/
+LightGBM/
+lib/*
+*.log
